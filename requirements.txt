@@ -1,3 +1,2 @@
 psycopg2
-urllib2
 datetime
